@@ -952,7 +952,10 @@
   dependencies:
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
